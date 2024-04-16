@@ -407,7 +407,7 @@ void pular_pergunta() {
 
 Clique no botão e tenha acesso ao circuito ⬇️ 
 
-<a href="[https://www.tinkercad.com/things/7hIbVrCa4DK-projeto-final](https://www.tinkercad.com/things/7hIbVrCa4DK-projeto-final/editel?sharecode=hfgsll-JCRzcpZOkn3FswTL0HCJUgorU_o3cYWIUQLw)">
+<a href="https://www.tinkercad.com/things/7hIbVrCa4DK-projeto-final/editel?sharecode=hfgsll-JCRzcpZOkn3FswTL0HCJUgorU_o3cYWIUQLw">
   <img src="https://img.shields.io/badge/CLICK%20HERE!!-66CDAA" alt="Clique Aqui!">
 </a>
 
