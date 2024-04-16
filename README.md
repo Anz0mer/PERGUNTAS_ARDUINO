@@ -425,6 +425,6 @@ primeiro botão da direita para a esquerda.
 No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver como ficou, só clicar no link. 
 
 ![Projeto (ao vivo)](IMAGENS/PJ_AOVIVO.jpeg)
-[![Assista ao vídeo](caminho/para/sua/imagem.jpg)](https://www.youtube.com/playlist?list=PLo3Nzu21r7jqFXAwNyTGfYLX6Vez5UGqC){:height="300px" width="500px"}
+[![Assista ao vídeo](LOGO_YT.png)](https://www.youtube.com/playlist?list=PLo3Nzu21r7jqFXAwNyTGfYLX6Vez5UGqC){:height="300px" width="500px"}
 
 ## 📌 Conclusão 📌
