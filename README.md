@@ -21,7 +21,7 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 ### Código Utilizado
 
-Aqui está o código utilizado no projeto:
+Optamos por incluir o código utilizado no projeto neste bloco para uma apresentação visual mais atraente.
 
 ```cpp
 #include <LiquidCrystal.h>
@@ -390,4 +390,10 @@ O projeto foi montado com os materiais citados acima, juntamente com o código q
 
 ![Projeto](IMAGENS/PJ_TINKER.jpeg)
 
-## 📸 Imagens do Projeto (ao vivo) 📸
+## 📸 Galeria 📸
+
+Aqui, teremos uma galeria de fotos e vídeos que tiramos do projeto no dia da apresentação. 
+
+![Projeto (ao vivo)](IMAGENS/PJ_AOVIVO.jpeg)
+
+## 📌 Conclusão 📌
