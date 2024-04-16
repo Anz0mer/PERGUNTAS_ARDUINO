@@ -8,7 +8,7 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 ## 📚 Itens Utilizados 📚
 
-### Linguagens
+### Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white">
@@ -410,8 +410,6 @@ Clique no botão e tenha acesso ao circuito ⬇️
 <a href="https://www.tinkercad.com/things/7hIbVrCa4DK-projeto-final/editel?sharecode=hfgsll-JCRzcpZOkn3FswTL0HCJUgorU_o3cYWIUQLw">
   <img src="https://img.shields.io/badge/CLICK%20HERE!!-66CDAA" alt="Clique Aqui!">
 </a>
-
-
 
 ## 🕹️ Passo a Passo do Jogo 🕹️
 
