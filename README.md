@@ -6,22 +6,35 @@ Este projeto consiste em um jogo de perguntas implementado utilizando Arduino. O
 
 O objetivo do jogo de perguntas é oferecer uma experiência divertida e educativa aos jogadores, enquanto exploram seus conhecimentos em diversos temas. Com três níveis de dificuldade - fácil, médio e difícil - cada um com cinco perguntas e uma pergunta final, os jogadores têm a oportunidade de testar suas habilidades e aprender novos conceitos.
 
-## 📚 Metodologia 📚
+## 📚 Itens Utilizados 📚
 
-### Materiais Utilizados
+### Linguagens
 
-- 01 Arduino UNO
-- 02 LEDs
-- 04 botões
-- 07 Resistores
-- 01 Buzzer
-- 01 Display LCD 16x2
-- 02 Protoboards
-- 01 Potenciômetro 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white">
+  <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">  
+</div>
 
-### Código Utilizado
+### Materiais
+
+<div>
+  <ul>
+    <li>01 Arduino UNO</li>
+    <li>02 LEDs</li>
+    <li>04 botões</li>
+    <li>07 Resistores</li>
+    <li>01 Buzzer</li>
+    <li>01 Display LCD 16x2</li>
+    <li>02 Protoboards</li>
+    <li>01 Potenciômetro</li>
+  </ul>
+</div>
+
+### Código
 
 Optamos por incluir o código utilizado no projeto neste bloco para uma apresentação visual mais atraente.
+<details>
+  <summary>Código em C++</summary>
 
 ```cpp
 #include <LiquidCrystal.h>
@@ -384,16 +397,34 @@ void pular_pergunta() {
     }
 }
 ```
-### Projeto no Tinkercad
+</details>
 
-O projeto foi montado com os materiais citados acima, juntamente com o código que está disponível não apenas no bloco anterior, mas também no arquivo do repositório.
+### Circuito Montado
+<div>
+  <img src="IMAGENS/PJ_TINKER.jpeg" width="550">
+</div>
 
-![Projeto](IMAGENS/PJ_TINKER.jpeg)
+## Passo a Passo do Jogo
+
+- Assim que o LCD ligar, o primeiro botão, da esquerda para direita deverá ser pressionado para que o `jogo inicie`.
+- O jogo está dividido em 03 níveis diferentes, o fácil, o médio e o dificil, sendo cada um composto por 05 perguntas cada.
+- Assim que as perguntas iniciarem, o jogador terá `15 segundos` antes que a pergunta pule.
+- Caso o mesmo queira `pular a pergunta`, o segundo botão da esquerda para a direita deverá ser pressionado.
+- Para respoder `SIM`, o jogador deverá pressionar o segundo botão da direita para a esquerda, caso queira responder `NÃO`, o mesmo deverá pressionar o
+primeiro botão da direita para a esquerda.
+- Caso queira desistir do jogo, o mesmo botão que foi usado para iniciar o jogo deverá ser pressionado novamente para o jogo finalizar.
+
+  ### Acontecimentos do Jogo
+  - Quando o jogador `acertar` uma pergunta, o `led verde` acenderá e um som será emitido pelo Buzzer.
+  - Caso o mesmo `erre` a pergunta, o `led vermelho` acenderá, o Buzzer emitirá um som e um aviso aparecerá no LCD informando que o jogo encerrou.
+  - Assim que as 15 perguntas forem respondidas corretamente, uma `última pergunta` aparecerá no LCD e caso o jogador acerte, o `jogo finalizará` com uma música no Buzzer e uma mensagem no LCD.
+  - Caso o mesmo `erre`, o jogo finalizará com outro som.
 
 ## 📸 Galeria 📸
 
-Aqui, teremos uma galeria de fotos e vídeos que tiramos do projeto no dia da apresentação. 
+No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver como ficou, só clicar no link. 
 
 ![Projeto (ao vivo)](IMAGENS/PJ_AOVIVO.jpeg)
+[![Assista ao vídeo](caminho/para/sua/imagem.jpg)](https://www.youtube.com/playlist?list=PLo3Nzu21r7jqFXAwNyTGfYLX6Vez5UGqC){:height="300px" width="500px"}
 
 ## 📌 Conclusão 📌
