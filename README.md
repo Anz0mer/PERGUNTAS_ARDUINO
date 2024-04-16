@@ -404,7 +404,7 @@ void pular_pergunta() {
   <img src="IMAGENS/PJ_TINKER.jpeg" width="550">
 </div>
 
-## Passo a Passo do Jogo
+## 🕹️ Passo a Passo do Jogo 🕹️
 
 - Assim que o LCD ligar, o primeiro botão, da esquerda para direita deverá ser pressionado para que o `jogo inicie`.
 - O jogo está dividido em 03 níveis diferentes, o fácil, o médio e o dificil, sendo cada um composto por 05 perguntas cada.
@@ -420,7 +420,7 @@ primeiro botão da direita para a esquerda.
   - Assim que as 15 perguntas forem respondidas corretamente, uma `última pergunta` aparecerá no LCD e caso o jogador acerte, o `jogo finalizará` com uma música no Buzzer e uma mensagem no LCD.
   - Caso o mesmo `erre`, o jogo finalizará com outro som.
 
-## 📸 Galeria 📸
+## 📸 Vídeos 📸
 
 No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver como ficou, só clicar no link. 
 
@@ -428,13 +428,13 @@ No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver 
   <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
 </a>
 
-## Participantes do Projeto
+## 🧑🏻‍💻 Participantes do Projeto 🧑🏻‍💻
 
-#### Anna Carolina Zomer
+#### Anna Carolina Zomer ⬇️
 ##### Matrícula: 24.222.012-7
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Anz0mer)
 
-#### Humberto Pellegrini
+#### Humberto Pellegrini ⬇️
 ##### Matrícula: 24.123.065-5
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Humbertin07)
 
