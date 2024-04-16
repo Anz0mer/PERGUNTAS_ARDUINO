@@ -10,9 +10,11 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 ### Materiais
 
-- Arduino UNO
-- 2 LEDs
-- 4 botões
-- Resistores
-- Buzzer
-- Display LCD 16x2
+- 01 Arduino UNO
+- 02 LEDs
+- 04 botões
+- 07 Resistores
+- 01 Buzzer
+- 01 Display LCD 16x2
+- 02 Protoboards
+- 01 Potenciômetro 
