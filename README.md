@@ -12,7 +12,7 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white">
-  <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">  
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">  
 </div>
 
 ### Materiais
@@ -401,8 +401,17 @@ void pular_pergunta() {
 
 ### Circuito Montado
 <div>
-  <img src="IMAGENS/PJ_TINKER.jpeg" width="550">
-</div>
+  <img src="IMAGENS/PJ_TINKER.jpeg" width="1000">
+</div> 
+<br>
+
+Clique no botão e tenha acesso ao circuito ⬇️ 
+
+<a href="https://www.tinkercad.com/things/7hIbVrCa4DK-projeto-final">
+  <img src="https://img.shields.io/badge/CLICK%20HERE!!-66CDAA" alt="Clique Aqui!">
+</a>
+
+
 
 ## 🕹️ Passo a Passo do Jogo 🕹️
 
@@ -438,4 +447,3 @@ No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver 
 ##### Matrícula: 24.123.065-5
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Humbertin07)
 
-## 📌 Conclusão 📌
