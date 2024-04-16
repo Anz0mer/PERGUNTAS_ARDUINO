@@ -424,7 +424,18 @@ primeiro botão da direita para a esquerda.
 
 No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver como ficou, só clicar no link. 
 
-![Projeto (ao vivo)](IMAGENS/PJ_AOVIVO.jpeg)
-[![Assista ao vídeo](LOGO_YT.png)](https://www.youtube.com/playlist?list=PLo3Nzu21r7jqFXAwNyTGfYLX6Vez5UGqC){:height="300px" width="500px"}
+<a href="https://www.youtube.com/playlist?list=PLo3Nzu21r7jqFXAwNyTGfYLX6Vez5UGqC">
+  <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
+
+## Participantes do Projeto
+
+#### Anna Carolina Zomer
+##### Matrícula: 24.222.012-7
+[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Anz0mer)
+
+#### Humberto Pellegrini
+##### Matrícula: 24.123.065-5
+[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Humbertin07)
 
 ## 📌 Conclusão 📌
