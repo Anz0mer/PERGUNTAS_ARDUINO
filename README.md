@@ -435,7 +435,7 @@ No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver 
   <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
 </a>
 
-## 🧑🏻‍💻 Participantes do Projeto 🧑🏻‍💻
+## 🧑🏻‍💻 Autores do Projeto 🧑🏻‍💻
 
 #### Anna Carolina Zomer ⬇️
 ##### Matrícula: 24.222.012-7
