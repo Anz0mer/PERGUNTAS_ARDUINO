@@ -8,7 +8,7 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 ## 📚 Metodologia 📚
 
-### Materiais
+### Materiais Utilizados
 
 - 01 Arduino UNO
 - 02 LEDs
@@ -18,3 +18,16 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 - 01 Display LCD 16x2
 - 02 Protoboards
 - 01 Potenciômetro 
+
+### Código Comentado
+
+![Imagem 1](IMAGENS/1.jpeg) 
+![Imagem 2](IMAGENS/2.jpeg)
+![Imagem 3](IMAGENS/3.jpeg)
+![Imagem 4](IMAGENS/4.jpeg)
+![Imagem 5](IMAGENS/5.jpeg)
+![Imagem 6](IMAGENS/6.jpeg)
+![Imagem 7](IMAGENS/7.jpeg)
+![Imagem 8](IMAGENS/8.jpeg)
+
+### Projeto no Tinkercad
