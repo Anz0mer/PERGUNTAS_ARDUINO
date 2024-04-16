@@ -8,14 +8,14 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 ## 📚 Itens Utilizados 📚
 
-### Tecnologias
+### Tecnologias 👾
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">  
 </div>
 
-### Materiais
+### Materiais 🖌️
 
 <div>
   <ul>
@@ -30,7 +30,7 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
   </ul>
 </div>
 
-### Código
+### Código 👾
 
 Optamos por incluir o código utilizado no projeto neste bloco para uma apresentação visual mais atraente.
 <details>
@@ -399,7 +399,7 @@ void pular_pergunta() {
 ```
 </details>
 
-### Circuito Montado
+### Circuito Montado 🖌️
 <div>
   <img src="IMAGENS/PJ_TINKER.jpeg" width="1000">
 </div> 
