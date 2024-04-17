@@ -1,3 +1,5 @@
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=150&color=ff0084)
+
 # 💡 Jogo de Perguntas com Arduino 💡
 
 Este projeto consiste em um jogo de perguntas implementado utilizando Arduino. O jogo tem como objetivo proporcionar entretenimento e aprendizado ao mesmo tempo, desafiando os jogadores com questões de diferentes níveis de dificuldade.
@@ -408,7 +410,7 @@ void pular_pergunta() {
 Clique no botão e tenha acesso ao circuito ⬇️ 
 
 <a href="https://www.tinkercad.com/things/7hIbVrCa4DK-projeto-final/editel?sharecode=hfgsll-JCRzcpZOkn3FswTL0HCJUgorU_o3cYWIUQLw">
-  <img src="https://img.shields.io/badge/CLICK%20HERE!!-66CDAA" alt="Clique Aqui!">
+  <img src="https://img.shields.io/badge/CLICK%20HERE!!-FF0084" alt="Clique Aqui!">
 </a>
 
 ## 🕹️ Passo a Passo do Jogo 🕹️
