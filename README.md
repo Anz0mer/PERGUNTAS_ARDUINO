@@ -1,4 +1,4 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=150&color=ff0084)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=ff0084)
 
 # 💡 Jogo de Perguntas com Arduino 💡
 
