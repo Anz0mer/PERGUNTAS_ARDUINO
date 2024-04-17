@@ -32,7 +32,7 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 
 ### Código 👾
 
-Optamos por incluir o código utilizado no projeto neste bloco para uma apresentação visual mais atraente.
+Optamos por incluir o código utilizado no projeto neste bloco para uma apresentação visual mais atraente, mas ele também está disponível no repositório.
 <details>
   <summary>Código em C++</summary>
 
@@ -429,7 +429,7 @@ primeiro botão da direita para a esquerda.
 
 ## 📸 Vídeos 📸
 
-No dia da apresentação, fizemos algumas gravações no jogo rodando, para ver como ficou, só clicar no link. 
+No dia da apresentação, fizemos algumas gravações do jogo rodando. Caso queira ver como ficou, basta clicar no botão abaixo.
 
 <a href="https://www.youtube.com/playlist?list=PLo3Nzu21r7jqFXAwNyTGfYLX6Vez5UGqC">
   <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
