@@ -1,6 +1,4 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084)
-
-# 💡 Jogo de Perguntas com Arduino 💡
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084&text=💡%20Jogo%20de%20Perguntas%20com%20Arduino%20💡&section=header&reversal=false&fontSize=30&fontColor=FFCBDB&fontAlignY=65)
 
 Este projeto consiste em um jogo de perguntas implementado utilizando Arduino. O jogo tem como objetivo proporcionar entretenimento e aprendizado ao mesmo tempo, desafiando os jogadores com questões de diferentes níveis de dificuldade.
 
