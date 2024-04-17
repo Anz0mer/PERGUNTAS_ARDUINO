@@ -1,12 +1,12 @@
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084&text=💡%20Jogo%20de%20Perguntas%20com%20Arduino%20💡&section=header&reversal=false&fontSize=30&fontColor=FFCBDB&fontAlignY=65)
 
-<div align="center">
- | <a href="#-objetivo-" style="font-size: 18px; margin: 0 10px;">Objetivo</a> |
-  <a href="#-itens-utilizados-" style="font-size: 18px; margin: 0 10px;">Itens Utilizados</a> |
-  <a href="#%EF%B8%8F-passo-a-passo-do-jogo-%EF%B8%8F" style="font-size: 18px; margin: 0 10px;">Passo a Passo</a> |
-  <a href="#-vídeos-" style="font-size: 18px; margin: 0 10px;">Vídeos</a> |
-  <a href="#-autores-do-projeto-" style="font-size: 18px; margin: 0 10px;">Autores</a> |
-</div>
+<p align="center">
+  <a href="#-objetivo-">Objetivo</a> |
+  <a href="#-itens-utilizados-">Itens Utilizados</a> |
+  <a href="#%EF%B8%8F-passo-a-passo-do-jogo-%EF%B8%8F">Passo a Passo</a> |
+  <a href="#-vídeos-">Vídeos</a> |
+  <a href="#-autores-do-projeto-">Autores</a>
+</p>
 
 ## 📈 Objetivo 📈
 
