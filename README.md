@@ -421,7 +421,7 @@ Clique no botão e tenha acesso ao circuito ⬇️
 primeiro botão da direita para a esquerda.
 - Caso queira desistir do jogo, o mesmo botão que foi usado para iniciar o jogo deverá ser pressionado novamente para o jogo finalizar.
 
-  ### Acontecimentos do Jogo
+  ### Acontecimentos do Jogo 🎮
   - Quando o jogador `acertar` uma pergunta, o `led verde` acenderá e um som será emitido pelo Buzzer.
   - Caso o mesmo `erre` a pergunta, o `led vermelho` acenderá, o Buzzer emitirá um som e um aviso aparecerá no LCD informando que o jogo encerrou.
   - Assim que as 15 perguntas forem respondidas corretamente, uma `última pergunta` aparecerá no LCD e caso o jogador acerte, o `jogo finalizará` com uma música no Buzzer e uma mensagem no LCD.
