@@ -1,4 +1,4 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=ff0084)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084)
 
 # 💡 Jogo de Perguntas com Arduino 💡
 
@@ -447,3 +447,4 @@ No dia da apresentação, fizemos algumas gravações do jogo rodando. Caso quei
 ##### Matrícula: 24.123.065-5
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Humbertin07)
 
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084&section=footer&reversal=false)
